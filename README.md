@@ -13,11 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-**📫Office address** <br>
-              600 4th St S<br>
-                CRI 3010<br>
-                St Petersburg FL 33701 <br>
-:envelope: Academic Email: [ojasn@usf.edu](mailto:ojasn@usf.edu)  
+
 
 **:mortar_board:Education**
 
