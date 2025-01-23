@@ -30,7 +30,7 @@ I have a solid background in Microbiology through an MSc in Microbiology from th
 I have seamlessly integrated research and teaching throughout his career. From my roles as a Teaching Assistant at Clemson University to my tenure as a Lecturer at S.S.&L.S. Patkar College and an Adjunct faculty member at Bhavans College in Mumbai, I  have consistently demonstrated a passion for sharing knowledge and nurturing future scientists. 
 
 
-**Research Interests :microscope:**
+**:microscope:Research Interests**
 
 Microbes are invisible parameters that contribute to all natural phenomena from aging, diseases to climate change. However, other than diseases, their roles are often overlooked. My research centers on using molecular biology and genetic engineering approaches to study roles of microbes in animal development and gut health. Because animal-microbe interactions are ubiquitous in both marine and terrestrial environments, my research has broad applications on the conservation of marine ecosystems and beyond.
 
