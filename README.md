@@ -17,17 +17,16 @@ Here are some ideas to get you started:
 
 **:mortar_board:Education**
 
-PhD, Biological Sciences, Clemson University, 2018<br>
-MSc, Microbiology, Mumbai University, 2010<br>
-BSc, Microbiology, Mumbai University, 2008
+PhD, Biological Sciences, Clemson University<br>
+MSc, Microbiology, Mumbai University<br>
+BSc, Microbiology, Mumbai University
 
  **:memo:Biography**
 
-I am a scientist and educator, holding a PhD in Biological Sciences from Clemson University in 2018. Using the soil nematode _Caenorhabditis elegans_ as a model organism, I investigated the potential of natural dietary supplements and nutraceuticals to promote healthy aging. Notably, my research unveiled the efficacy of royal jelly supplementation in enhancing _C. elegans_' ability to combat both Gram-positive and Gram-negative pathogens, even in old age. Additionally, I demonstrated the immune-boosting properties of royal jelly, linking these effects to Wnt signaling, a canonical developmental pathway. This work shed light on the molecular mechanisms underlying innate immunity with age, offering insights into strategies for promoting healthy aging.
-
-I have a solid background in Microbiology through an MSc in Microbiology from the University of Mumbai, and a B.Sc in Microbiology from the same institution. My passion for research has been cultivated since pursuing Honors research in the undergraduate program. I have constantly used this understanding of microbes to further study their impact in various hosts and environments.
-
-I have seamlessly integrated research and teaching throughout his career. From my roles as a Teaching Assistant at Clemson University to my tenure as a Lecturer at S.S.&L.S. Patkar College and an Adjunct faculty member at Bhavans College in Mumbai, I  have consistently demonstrated a passion for sharing knowledge and nurturing future scientists. 
+I am a scientist and educator,  interested in understanding the signifiance of micro organisms in our day to day lives. I have a speial curiosity for the imppact of microbes on development, immunity and aging. 
+I possess a strong background in microbiology and have conducted extensive research on the impact of microbes in various hosts and environments. I have experience studying molecular 
+Currently, I am serving as a Research Associate at the University of South Florida, and I am deeply committed to advancing scientific discovery and mentoring the next generation of researchers.
+I have always balanced research and teaching throughout his career. From my roles as a Teaching Assistant at Clemson University to my tenure as a Lecturer at S.S.&L.S. Patkar College and an Adjunct faculty member at Bhavans College in Mumbai, I  have consistently demonstrated a passion for sharing knowledge and nurturing future scientists. 
 
 
 **:microscope:Research Interests**
