@@ -37,6 +37,7 @@ I currently use the marine invertebrate model _Ciona robusta_ to understand how 
 
  **:trophy:Awards/Honors**
 
+ Early Career Researcher Valente Award (USF-2024)<br>
  New Investigator Award (USF Health - 2022)<br>
  Outstanding Graduate in Learning Award (Clemson University - 2018)<br>
 
